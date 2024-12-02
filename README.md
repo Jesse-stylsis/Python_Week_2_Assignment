@@ -14,7 +14,7 @@ This project demonstrates basic list operations in Python. The program performs 
 
 ## Installation
 
-No installation is required. You can simply run the script using Python 3.x.
+No installation is required. You can simply run the script using Python 3.12.
 
 1. Clone the repository or download the script file.
 2. Open a terminal or command prompt.
